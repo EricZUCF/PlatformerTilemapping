@@ -55,3 +55,8 @@
 
 # Crashlytics generated file
 **/crashlytics-build.properties
+
+# WebGL
+**/[Ww]ebGL Builds/
+connectwebgl.zip
+webgl_sharing
